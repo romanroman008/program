@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Figury\Figury\bin\Debug\Figury.exe.config
+C:\Users\USER\source\repos\Figury\Figury\bin\Debug\Figury.exe
+C:\Users\USER\source\repos\Figury\Figury\bin\Debug\Figury.pdb
+C:\Users\USER\source\repos\Figury\Figury\obj\Debug\Figury.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Figury\Figury\obj\Debug\Figury.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Figury\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Figury\Figury\obj\Debug\Figury.exe
+C:\Users\USER\source\repos\Figury\Figury\obj\Debug\Figury.pdb
